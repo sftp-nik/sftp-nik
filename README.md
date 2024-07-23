@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm Nikhil, a passionate cybersecurity enthusiast 
 - **[Resume Website Template](https://github.com/sftp-nik/Resume-Website-Template):** A simple and elegant HTML template for a personal resume website.
 
 ### 📫 How to Reach Me
-- **LinkedIn:** [Nikhil's LinkedIn]([https://www.linkedin.com/in/nikhil](https://www.linkedin.com/in/thenikkulkarni/))
+- **LinkedIn:** [Nikhil's LinkedIn](https://www.linkedin.com/in/nikhil](https://www.linkedin.com/in/thenikkulkarni/))
 - **GitHub:** [sftp-nik](https://github.com/sftp-nik)
 - **Email:** ssh_nik@proton.me
 
