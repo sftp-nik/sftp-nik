@@ -16,8 +16,7 @@ Welcome to my GitHub profile! I'm Nik, a passionate cybersecurity aspirant and e
 - **Other Technologies:** Docker, VirtualBox, Git, Linux, IoT
 
 ### 📊 Skills Breakdown
-![Skills Pie Chart](data:image/png;base64,[YOUR_BASE64_STRING_HERE](https://quickchart.io/chart?c={type:'pie',data:{labels:['Networking','Linux','Pentesting','Python','Android app dev','Cyber sec analyst'],datasets:[{data:[20,20,35,10,5,10]}]}}
-))
+![Skills Pie Chart](chart.webp)
 
 ### 🔭 Projects & Repositories
 - **[EncryptVault](https://github.com/sftp-nik/EncryptVault):** A Python project for encrypting and decrypting files and folders using AES encryption and SHA-512 hashing.
