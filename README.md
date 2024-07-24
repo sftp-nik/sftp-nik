@@ -25,6 +25,7 @@ Welcome to my GitHub profile! I'm Nik, a passionate cybersecurity aspirant and e
 - **LinkedIn:** [thenikkulkarni](https://www.linkedin.com/in/thenikkulkarni/)
 - **GitHub:** [sftp-nik](https://github.com/sftp-nik)
 - **Email:** ssh_nik@proton.me
+- **Instagram:** [the_nikhilkulkarni](https://instagram.com/the_nikhilkulkarni)
 
 ### 🌟 Let's Connect!
 I'm always open to discussing new ideas, collaborations, and opportunities in the field of cybersecurity and development. Feel free to reach out to me!
