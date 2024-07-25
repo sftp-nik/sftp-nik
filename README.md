@@ -1,6 +1,6 @@
 # Hi, I'm Nik! 👋
 
-[TryHackMe Badge]([https://tryhackme-badge-url.com/badge.png](https://tryhackme-badges.s3.amazonaws.com/sshnik.png))
+[TryHackMe Badge]((https://tryhackme-badges.s3.amazonaws.com/sshnik.png))
 
 ## Student • Ethical Hacker • Cyber Security Aspirant
 
