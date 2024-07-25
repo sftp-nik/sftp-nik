@@ -1,5 +1,5 @@
-# Hi, I'm Nik! 👋  <img src="logo.png" alt=" " width="50" style="float: right;">
-
+# Hi, I'm Nik! 👋  
+<img src="logo.png" alt=" " width="100" style="float: right;">
 
 
 ## TryHackMe Profile
