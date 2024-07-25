@@ -1,6 +1,5 @@
 # Hi, I'm Nik! 👋
 
-![TryHackMe Badge](https://tryhackme.com/badge/2622545)
 <img src="https://tryhackme-badges.s3.amazonaws.com/sshnik.png" alt="TryHackMe">
 
 
