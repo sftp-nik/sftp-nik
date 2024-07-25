@@ -2,6 +2,9 @@
 
 ## TryHackMe Profile
 <img src="https://tryhackme-badges.s3.amazonaws.com/sshnik.png" alt="TryHackMe">
+<script src="https://tryhackme.com/badge/2622545"></script>
+
+
 
 
 ## Student • Ethical Hacker • Cyber Security Aspirant
