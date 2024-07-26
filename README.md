@@ -12,12 +12,12 @@ Welcome to my GitHub profile! I'm Nik, a passionate cybersecurity aspirant and e
 ### 🚀 About Me
 - 🎓 Currently pursuing BCA in Cloud & Security.
 - 📚 Learning and exploring cybersecurity through various certifications like CEH, CHFI, CCNA, and more.
-- 🔍 Focused on SIEM systems, malware analysis, intrusion detection, and wireless security.
+- 🔍 Focused on CTFs, SIEM systems, android hacking, malware analysis, intrusion detection, IoT hacking, and wireless security.
 
 ### 🛠️ Skills & Technologies
-- **Programming Languages:** Python, Ruby
-- **Cybersecurity Tools:** Metasploit, Nessus, Splunk, Wireshark, Nmap
-- **Web Development:** HTML, CSS, JavaScript.
+- **Programming Languages:** Python, Ruby, C, and C++
+- **Cybersecurity Tools:** Metasploit, Nessus, Splunk, Wireshark, Nmap, BurpSuite
+- **App Development:** Java, Kotlin, Android Studio.
 - **Other Technologies:** Docker, VirtualBox, Git, Linux, IoT
 
 ### 📊 Skills Breakdown
@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm Nik, a passionate cybersecurity aspirant and e
 ### 📫 How to Reach Me
 - **LinkedIn:** [thenikkulkarni](https://www.linkedin.com/in/thenikkulkarni/)
 - **GitHub:** [sftp-nik](https://github.com/sftp-nik)
-- **Email:** ssh_nik@proton.me
+- **Email:** [ssh_nik@proton.me](ssh_nik@proton.me)
 - **Instagram:** [the_nikhilkulkarni](https://instagram.com/the_nikhilkulkarni)
 
 ### 🌟 Let's Connect!
