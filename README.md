@@ -1,7 +1,6 @@
 # Hi, I'm Nik! 👋  
 <img src="logo.png" alt=" " width="150" style="float: right;">
 
-
 ## TryHackMe Profile
 <img src="https://tryhackme-badges.s3.amazonaws.com/sshnik.png" alt="TryHackMe">
 
