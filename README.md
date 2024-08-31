@@ -1,5 +1,5 @@
 # Hi, I'm Nik! 👋
-## Student • Ethical Hacker • Cyber Security Aspirant
+Student • Ethical Hacker • Cyber Security Aspirant
 
 ## TryHackMe Profile
 Ranked Top 5% on TryHackMe
