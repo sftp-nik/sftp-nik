@@ -34,5 +34,3 @@ Welcome to my GitHub profile! I'm Nik, a passionate cybersecurity aspirant and e
 
 ### 🌟 Let's Connect!
 I'm always open to discussing new ideas, collaborations, and opportunities in the field of cybersecurity and development. Feel free to reach out to me!
-
-
