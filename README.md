@@ -1,5 +1,5 @@
 # Hi, I'm Nik! 👋
-Student • Ethical Hacker • Cyber Security Aspirant
+Ethical Hacker • Cyber Security Enthusiast • Top 3% on TryHackMe
 
 ## TryHackMe Profile
 <img src="https://tryhackme-badges.s3.amazonaws.com/sshnik.png" alt="TryHackMe">
