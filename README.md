@@ -4,6 +4,7 @@ Ethical Hacker • Cyber Security Enthusiast • Top 3% on TryHackMe
 ## TryHackMe Profile
 <img src="https://tryhackme-badges.s3.amazonaws.com/sshnik.png" alt="TryHackMe">
 
+
 Welcome to my GitHub profile! I'm Nik, a passionate cybersecurity aspirant and ethical hacker with a strong interest in developing secure applications and exploring the world of ethical hacking. I love to learn, create, and share my knowledge through various projects.
 
 ### 🚀 About Me
