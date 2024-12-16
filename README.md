@@ -14,6 +14,8 @@
 - 📚 **Learning and exploring cybersecurity** through certifications like CEH v12, CHFI, and CCNA.
 - 🔍 **Special Interests:** CTFs, SIEM systems, Android hacking, malware analysis, intrusion detection, IoT hacking, and wireless security.
 - 🌟 **Top Achievement:** Top 3% on TryHackMe.
+- 💡 **Philosophy:** "Security is not a product, but a process."  
+- 🖥️ **Passion Projects:** Building tools for ethical hacking and contributing to open-source cybersecurity initiatives.
 
 ---
 
@@ -33,6 +35,7 @@
 - **[Niks Translator](https://github.com/sftp-nik/Niks-Translator):** A Tkinter-based multilingual language translator application.
 - **[WiFi Deauther](https://github.com/sftp-nik/WiFi-Deauther):** NodeMCU-based tool for WiFi deauthentication attack simulation.
 - **[Resume Website Template](https://github.com/sftp-nik/Resume-Website-Template):** A clean and elegant HTML template for personal resumes.
+- **[DeepFake Creator](https://github.com/sftp-nik/DeepFake-Creator):** A cutting-edge Python project to generate deepfakes using advanced machine learning algorithms.
 
 ---
 
