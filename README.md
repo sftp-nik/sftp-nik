@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 <div align="center">
   <h1>Hi, I'm Nik! 👋</h1>
-  <p><strong>Ethical Hacker • Cyber Security Enthusiast • Top 3% on TryHackMe</strong></p>
+  <p><strong>Ethical Hacker • Cyber Security Enthusiast • Top 2% on TryHackMe</strong></p>
 </div>
 
 <div align="center">
