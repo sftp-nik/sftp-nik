@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://tryhackme.com/p/sshnik" target="_blank">
-     <img src="https://tryhackme-badges.s3.amazonaws.com/sshnik.png" alt="Your Image Badge" />
+     <img src="https://tryhackme-badges.s3.amazonaws.com/sshnik.png" alt="THM Badge" />
   </a>
 </div>
 
