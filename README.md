@@ -17,7 +17,7 @@
   <li>🎓 <strong>Currently pursuing</strong> BCA in Cloud & Security.</li>
   <li>📚 <strong>Learning and exploring cybersecurity</strong> through certifications like CEH v12, CHFI, and CCNA.</li>
   <li>🔍 <strong>Special Interests:</strong> CTFs, SIEM systems, Android hacking, malware analysis, intrusion detection, IoT hacking, and wireless security.</li>
-  <li>🌟 <strong>Top Achievement:</strong> Top 3% on TryHackMe.</li>
+  <li>🌟 <strong>Top Achievement:</strong> Top 2% on TryHackMe.</li>
   <li>💡 <strong>Philosophy:</strong> "Security is not a product, but a process."</li>
   <li>🖥️ <strong>Passion Projects:</strong> Building tools for ethical hacking and contributing to open-source cybersecurity initiatives.</li>
 </ul>
