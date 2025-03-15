@@ -78,5 +78,3 @@
 <div align="center">
   <p>I'm always open to discussing new ideas, collaborations, and opportunities in cybersecurity and development. Feel free to reach out and connect!</p>
 </div>
-
-
