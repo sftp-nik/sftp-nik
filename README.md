@@ -7,6 +7,8 @@
 <div align="center">
   <a href="https://tryhackme.com/p/sshnik" target="_blank">
      <img src="https://tryhackme-badges.s3.amazonaws.com/sshnik.png" alt="THM Badge" />
+    <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="thenikkulkarni" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/thenikkulkarni?trk=profile-badge">Nikhil Kulkarni</a></div>
+              
   </a>
 </div>
 
