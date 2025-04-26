@@ -10,11 +10,6 @@
   </a>
 </div>
 
-<div align="center">
-  <a href="https://in.linkedin.com/in/thenikkulkarni" target="_blank">
-    <img src="https://img.shields.io/badge/-Nikhil%20Kulkarni-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile Badge">
-  </a>
-</div>
 
 ---
 
